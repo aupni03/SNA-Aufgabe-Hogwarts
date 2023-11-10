@@ -1,0 +1,25 @@
+from,to
+Harry Potter,Hermine Granger
+Hermine Granger,Harry Potter
+Harry Potter,Ron Weasley
+Ron Weasley,Harry Potter
+Ron Weasley,Hermine Granger
+Hermine Granger,Ron Weasley
+Harry Potter,Ginny Weasley
+Ginny Weasley,Harry Potter
+Hagrid,Harry Potter
+Harry Potter,Hagrid
+Hagrid,Hermine Granger
+Hermine Granger,Hagrid
+Hagrid,Ron Weasley
+Ron Weasley,Hagrid
+Hagrid,Vincent Crabbe
+Vincent Crabbe,Draco Malfoy
+Draco Malfoy,Vincent Crabbe
+Draco Malfoy,Severus Snape
+Severus Snape,Draco Malfoy
+Severus Snape,Vincent Crabbe
+Vincent Crabbe,Severus Snape
+Harry Potter,Cho Chang
+Cho Chang,Harry Potter
+
